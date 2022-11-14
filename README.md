@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python, Data Analysis, Sql**
+- 💬 Ask me about **Python, Data Analysis, Sql, Django**
 
 - 📫 How to reach me **ayushgiri56@gmail.com**
 
