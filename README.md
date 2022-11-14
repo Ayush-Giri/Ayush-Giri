@@ -1,20 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Giri</h1>
 <h3 align="center">A passionate software Developer from Nepal</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Python, Data Analysis, Sql**
-
-- 📫 How to reach me **ayushgiri56@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h1 align="center">Hi 👋, I'm Ayush Giri</h1>
-<h3 align="center">A passionate software Developer from Nepal</h3>
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
